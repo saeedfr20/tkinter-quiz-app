@@ -1,4 +1,4 @@
-\# Tkinter Quiz App
+# Tkinter Quiz App
 
 
 
@@ -8,15 +8,16 @@ Questions are loaded from a JSON file and the program calculates the user score.
 
 
 
-\## Features
+## Features
 
-\- Built with Python
+- Built with Python
 
-\- GUI using Tkinter
+- GUI using Tkinter
 
-\- Questions stored in JSON
+- Questions stored in JSON
 
-\- Score calculation
+- Score calculation
+
 
 
 
